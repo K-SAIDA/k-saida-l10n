@@ -507,7 +507,7 @@
     "gui.sharedMessages.costume": "모양 {index}",
     "gui.sharedMessages.sprite": "스프라이트 {index}",
     "gui.sharedMessages.pop": "팝",
-    "gui.sharedMessages.replaceProjectWarning": "Replace contents of the current project?",
+    "gui.sharedMessages.replaceProjectWarning": "새로운 프로젝트를 불러오시겠습니까?",
     "gui.sharedMessages.loadFromComputerTitle": "컴퓨터에서 불러오기",
     "gui.gui.defaultProjectTitle": "스크래치 프로젝트",
     "gui.waiting.headline": "작업을 처리하는 중",
