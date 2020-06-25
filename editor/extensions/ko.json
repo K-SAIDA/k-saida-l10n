@@ -68,7 +68,7 @@
     "machineLearning.operatorSum": "[X]의 총 합계",
     "machineLearning.operatorMean": "[X]의 평균",
     "machineLearning.getRowOfArrayAtIndex": "[ARRAY]리스트의 [INDEX]번째 행",
-    "machineLearning.getMinMaxValueRowOfArrayAtIndex": "[ARRAY]리스의 [INDEX]번째 행 [MINMAX]값 가져오기",
+    "machineLearning.getMinMaxValueRowOfArrayAtIndex": "[ARRAY]리스트의 [INDEX]번째 행 [MINMAX]값 가져오기",
     "machineLearning.getRowSizeOfArray": "[ARRAY]리스트의 행 개수",
     "machineLearning.getColumnOfArrayAtIndex": "[ARRAY]리스트의 [INDEX]번째 열",
     "machineLearning.getColumnSizeOfArray": "[ARRAY]리스트의 열 개수",
