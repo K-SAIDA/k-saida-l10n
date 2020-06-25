@@ -60,7 +60,7 @@
     "bigData.getSizeImageLabel": "[STORAGE]라벨 개수",
     "bigData.saveImageLocal": "[STORAGE]라벨 [LABEL]의 [INDEX]번째 이미지를 파일로 저장하기",
     "bigData.showViewer": "[STORAGE]을(를) 시각화하기",
-    "bigData.crawlingURL": "데이터 수집을 위한 주소 [URL]을(를) 설정",
+    "bigData.crawlingURL": "데이터 수집을 위한 주소 [CRAWLINGSITE]을(를) 설정",
     "bigData.crawlingLogin" : "로그인을 위한 아이디 [IDENTITY]와 비밀번호 [PASSWORD]을(를) 설정",
     "bigData.crawlingWord": "검색어 [WORD]을(를) 설정",
     "bigData.crawlingExecute": "[NUMBER]개만큼 크롤링 후, CSV 저장",
