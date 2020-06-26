@@ -65,7 +65,7 @@
     "bigData.crawlingExecute": "[NUMBER]개만큼 크롤링 후, CSV 저장",
     "bigData.getHeaderAtCrawlingURL": "[CRAWLINGSITE]에 대한 크롤링 항목",
     "bigData.crawlingURL.melon": "(1) 멜론차트",
-    "bigData.crawlingURL.daum": "(2) 다음",
+    "bigData.crawlingURL.daum": "(2) 다음뉴스",
     "machineLearning.categoryName": "머신 러닝",
     "machineLearning.operatorAdd": "[A] + [B]",
     "machineLearning.operatorSub": "[A] - [B]",
